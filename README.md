@@ -5,16 +5,16 @@ Mostly for the datasets I use jupyter notebook, with anaconda distribution of py
 
 ### Libraries used :
 
-  * `scikit-learn` : for purely Machine Learning Algorithms and preprocessing.
-  * `gensim`       : for NLP.
-  * `keras`        : for deep learning purposes.
-  * `tensorflow`   : for keras backend.
+  * `scikit-learn` :  for purely Machine Learning Algorithms and preprocessing.
+  * `gensim`       :  for NLP.
+  * `keras`        :  for deep learning purposes.
+  * `tensorflow`   :  for keras backend.
   
   other libraries include:
   
-  * `pandas`      : for data analysis purposes.
-  * `seaborn`     : for beautiful visualizations.
-  * `plotly`      : for time series graphs.
+  * `pandas`       :   for data analysis purposes.
+  * `seaborn`      :   for beautiful visualizations.
+  * `plotly`       :   for time series graphs.
 
 Analytics Vidhya Profile : [greed2411](https://datahack.analyticsvidhya.com/user/profile/greed2411)
 
