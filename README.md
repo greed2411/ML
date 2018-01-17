@@ -9,6 +9,7 @@ Mostly for the datasets I use jupyter notebook, with anaconda distribution of py
   * `gensim`       :  for NLP.
   * `keras`        :  for deep learning purposes.
   * `tensorflow`   :  for keras backend.
+  * `pytorch`      :  cause the hype is real.
   
   other libraries include:
   
