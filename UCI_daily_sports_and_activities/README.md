@@ -19,7 +19,7 @@ Pattern Recognition, 43(10):3605-3620, October 2010.
 
 # Preprocessing
 
-Where they take the input segment, that's a 5 second window of a patient performing an activity, which has 125 observations ( 5 x 25Hz ) with 45 features, because of 9 axes of each sensor unit on torso, left hand, right hand, left leg, right leg. They convert the 125x45 into a handcrafted meaningful 1170x1 matrix.
+Where they take the input segment, that's a 5 second window of a patient performing an activity, which has 125 observations ( 5 x 25Hz ) with 45 features, because of 9 axes of each sensor unit on torso, left hand, right hand, left leg, right leg. They convert the 125x45 into a handcrafted meaningful 1170x1 vector.
 
 The 1170 features represents, 
 * 225 features ( min, max, mean, skewness, kurtosis of all 9 axes of all 5 units, thus 5x9x5 ) i.e., first_step
@@ -35,6 +35,8 @@ Adding them all 225 + 225 + 225 + 495 = 1170, for each segment, i.e., each text 
 Then these values are normalized in the range [0,1], and stored along with the patient ID and activity ID for that segment / text file.
 
 The test I performed includes two parts, one with 9120 x 1170 matrix, and another with 9120 x 30 matrix, I did PCA over the initial matrix, unfortunately, the PCA didn't live up to my expectations, so I'm producing both results.
+
+Training was done on `75%` of the data, and validation set had the remaining `25%` of the 9120 observations.
 
 # Conclusion
 
