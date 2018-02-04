@@ -64,7 +64,7 @@ Friend of mine got caught on the RPi cam feed:
  * Parallel Plotting
 ![pp](https://github.com/greed2411/ML/blob/screenshots/ss/Screenshot%20from%202018-02-04%2015-45-14.png?raw=true "Parallel plotting on Iris dataset")
 
- * Pariplot
+ * Pairplot
 ![Pariplot](https://github.com/greed2411/ML/blob/screenshots/ss/Screenshot%20from%202018-02-04%2015-44-31.png?raw=true "Pariplot")
 
 #### Data is Beautiful, Not Saturn's rings
