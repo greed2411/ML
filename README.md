@@ -111,6 +111,14 @@ Out[28]:
 
 ![scatterplot](https://github.com/greed2411/ML/blob/screenshots/ss/Screenshot%20from%202018-02-04%2015-21-52.png?raw=true "Scatterplot on Relationship between Sales because of TV, Radio and Newspaper")
 
+#### Plotly graphs of the recent trends in Bitcoin world, intereactive time series graphs.
+
+
+![bitcoin trend](https://github.com/greed2411/ML/blob/screenshots/ss/Screenshot%20from%202018-02-05%2019-00-04.png?raw=true "Bitcoin trend last year")
+
+
+![btcexchangemarts](https://github.com/greed2411/ML/blob/screenshots/ss/Screenshot%20from%202018-02-05%2019-01-40.png?raw=true "BTC Exchange points")
+
 ### Just to give you a tease:
 
 This is the first dataset I handled, xD.
