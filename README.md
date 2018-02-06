@@ -10,6 +10,10 @@ Experimenting with Machine Learning and Deep Learning in Python.
 
 I mostly use [Jupyter Notebook](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html), with [Anaconda](https://www.anaconda.com/what-is-anaconda/) distribution of Python when it comes to DS/ML/DL.
 
+***Kaggle Profile*** : [jaivarsan](https://www.kaggle.com/jaivarsan).
+
+***Analytics Vidhya Profile*** : [greed2411](https://datahack.analyticsvidhya.com/user/profile/greed2411).
+
 ### Libraries used :
 
   * `scikit-learn` :  for purely Machine Learning Algorithms and preprocessing.
@@ -20,10 +24,6 @@ I mostly use [Jupyter Notebook](http://jupyter-notebook-beginner-guide.readthedo
   * `keras`        :  for deep learning purposes.
   * `tensorflow`   :  for keras backend.
   * `pytorch`      :  cause the hype is real.
-  
-Kaggle Profile : [jaivarsan](https://www.kaggle.com/jaivarsan).
-
-Analytics Vidhya Profile : [greed2411](https://datahack.analyticsvidhya.com/user/profile/greed2411).
 
 ## Papers Implemented :
 
